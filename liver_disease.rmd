@@ -29,7 +29,7 @@ knitr::opts_chunk$set(
 )
 
 # NOTE: The chunks below are empty as they refer to the code in the script read
-#       above. This was made for maximimum reproducibility and coherence between
+#       above. This was made for maximum reproducibility and coherence between
 #       interactive analysis done in the script and report generation instead of
 #       copying/pasting.
 ```
