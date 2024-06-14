@@ -6,8 +6,8 @@ statistical summaries are the main tools in EDA, and together they can be very
 powerful in data analysis.
 
 The data set used in this project contains data on liver disease in Indian
-patients^[Data source:
-[Kaggle](https://www.kaggle.com/uciml/indian-liver-patient-records)].
+patients (Data source:
+[Kaggle](https://www.kaggle.com/uciml/indian-liver-patient-records)).
 
 The analysis code is written in R and reported via R Markdown. You can inspect
 the code for both the analysis and the reporting, or you can [download the PDF
